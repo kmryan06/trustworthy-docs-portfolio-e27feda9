@@ -24,7 +24,7 @@ const Hero = () => {
           </p>
           
           <a
-            href="https://wa.me/1234567890"
+            href="https://cudoai.com/ibbu"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-primary hover:bg-primary-hover text-white rounded-lg transition-all transform hover:scale-105 font-inter"
